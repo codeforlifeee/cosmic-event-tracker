@@ -1,4 +1,5 @@
-import { NASAResponse, FilterOptions } from '@/types/nasa'
+import { NASAResponse } from '@/types/nasa'
+//import { FilterOptions } from '@/types/nasa';
 
 const NASA_API_BASE = 'https://api.nasa.gov/neo/rest/v1'
 const API_KEY = import.meta.env.VITE_NASA_API_KEY || 'DEMO_KEY'

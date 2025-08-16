@@ -1,6 +1,6 @@
 import React from 'react'
 import { Button } from '@/components/ui/button'
-import { Spinner } from '@/components/ui/spinner'
+//import { Spinner } from '@/components/ui/spinner'
 import { ChevronDown, Loader2 } from 'lucide-react'
 
 interface LoadMoreButtonProps {
